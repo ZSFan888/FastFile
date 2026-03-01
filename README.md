@@ -238,6 +238,6 @@ const MAX_DAILY_DEFAULT = 200;            // 每个接口每日默认配额
 
 <div align="center">
 
-Made with ❤️ by ZSFan888
+Made with ❤️ by ZSFan
 
 </div>
